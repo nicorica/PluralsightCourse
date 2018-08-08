@@ -11,4 +11,4 @@ def add_student(name):
 
 student_list = get_students_titlecase()
 
-add_student("nico")
+add_student("test")
